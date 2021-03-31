@@ -1,0 +1,28 @@
+body {
+    background-color: #202040;
+}
+
+#profile{
+    margin-top: 10rem;
+}
+
+img {
+    max-width:15rem;
+}
+
+footer a:link{
+  color: white;
+}
+
+footer a:visited{
+    color: white;
+}
+
+footer a:hover{
+    color: orange;
+}
+
+.card-title {
+    font-family: 'Allura', cursive;
+    font-size: 3rem;
+}

@@ -1,31 +1,36 @@
 body {
-    background-color: #202040;
+  background-color: #202040;
 }
 
-#profile{
-    margin-top: 10rem;
+#profile {
+  margin-top: 10rem;
 }
 
 img {
-    max-width:15rem;
+  max-width: 15rem;
 }
 
-footer a:link{
+footer a:link {
   color: white;
 }
 
-footer a:visited{
-    color: white;
+footer a:visited {
+  color: white;
 }
 
-footer a:hover{
-    color: orange;
+footer a:hover {
+  color: orange;
 }
 
 .card-title {
-    font-family: 'Allura', cursive;
-    font-size: 3rem;
+  font-family: "Allura", cursive;
+  font-size: 3rem;
 }
-.orange{
-    color: orange;
+.orange {
+  color: orange;
+}
+
+img {
+  border-radius: 1rem;
+  border: 1px solid;
 }

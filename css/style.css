@@ -33,4 +33,7 @@ footer a:hover {
 img {
   border-radius: 1rem;
   border: 1px solid;
+  height: 300;
+  width: 250;
+  object-fit: contain;
 }
